@@ -35,7 +35,3 @@ This Weather App provides real-time weather updates for various locations. It us
 1. **Enter a city name** in the search bar at the top of the app.
 2. **Click on the "Search" button** to retrieve weather information.
 3. **View the weather data** for the selected city, including temperature, humidity, and wind speed.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as per the terms of the license.
